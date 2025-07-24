@@ -1,1 +1,1 @@
-# Whatsapp-clone
+# WhatsAppClone Setup Instructions
